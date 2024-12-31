@@ -6,7 +6,7 @@ This project uses machine learning to predict the likelihood of diabetes based o
 
 ### LIBRARIES USED
 
-Language: Python /n
+Language: Python ; 
 Libraries: pandas, numpy, scikit-learn
 
 ### KEY HIGHLIGHTS
